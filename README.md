@@ -1,2 +1,0 @@
-# dus-kijk
-bot test
